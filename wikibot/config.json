@@ -1,0 +1,39 @@
+{
+  "bot" : {
+    "name": "wikibot",
+    "triggers": [
+        "wikibot",
+        "wb"
+    ],
+    "icon": ":globe_with_meridians:"
+  },
+  "phrases": [
+    "Ahoy",
+    "G'day",
+    "Good evening",
+    "Good morning",
+    "Good afternoon",
+    "Greetings for the day",
+    "Hello",
+    "Hello there",
+    "Hey",
+    "Hi",
+    "Hi there",
+    "How are you?",
+    "How are you doing?",
+    "Howdy",
+    "How's it going?",
+    "How's it hanging?",
+    "Salutations",
+    "Sup",
+    "Wazzup?",
+    "What Doing?",
+    "Welcome",
+    "What's up?",
+    "Yo",
+    "Bonjour",
+    "What's the haps?"
+  ],
+  "team" : "",
+  "token" : ""  
+}

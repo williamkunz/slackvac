@@ -1,0 +1,22 @@
+{
+  "bot": {
+    "name": "gitbot",
+    "icon": ":octocat:",
+    "triggers": [
+      "gitbot",
+      "gb"
+    ]
+  },
+  "github": {
+    "token": "",
+    "username" : "",
+    "teams": [
+      {
+        "name" : "",
+        "owner" : "",
+        "repos" : [],
+        "contributors": []
+      }
+    ]
+  }
+}
